@@ -12,3 +12,4 @@ $ git push origin dev
 Total 0 (delta 0), reused 0 (delta 0)
 To git@github.com:devlabuser/sharp.git
  * [new branch]      dev -> dev
+ Katrin Hello

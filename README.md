@@ -1,3 +1,3 @@
 # Hello-Katrin
 Just another repository
-cd home/user/project
+git checkout -- ./ && git pull

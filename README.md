@@ -1,3 +1,3 @@
 # Hello-Katrin
 Just another repository
-Already up-to-date.
+$ git clone https://github.com/tutorialzine/awesome-project.git
